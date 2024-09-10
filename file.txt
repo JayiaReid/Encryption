@@ -1,0 +1,4 @@
+Even though the file is in the same folder as your script, 
+Python may not always recognize the current working directory correctly, 
+depending on how you're running the script. 
+To ensure Python looks in the right place, try using an absolute file path.
